@@ -5,4 +5,4 @@ In this Project, I have tried to implement some of the functionalities of the ap
 
 This is a Construct Week Project.
 
-NETLIFY LINK :- https://64b9658ad097dc06e782227c--sparkling-sprinkles-e83f71.netlify.app/
+NETLIFY LINK :- https://66c1bc780e229981dec8829a--storied-cascaron-dc6409.netlify.app/
